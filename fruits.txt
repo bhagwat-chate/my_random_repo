@@ -1,0 +1,4 @@
+apple
+banana
+watermelon
+they all are fruits
